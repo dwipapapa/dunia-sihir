@@ -349,7 +349,8 @@ Journal_Text = [
 "Pada suatu hari, hiduplah anak perepuan bernama Mira",
 "Dia tinggal bersama neneknya",
 "Neneknya sedang kena sakit aneh, kata dokter tidak ada obatnya. Dia tidak percaya dokternya, jadi dia tanya-tanya orang-orang di Desanya.",
-"Akhirnya dia ketemu orang yang tahu jawaban, dia bilang mira harus pergi ke dalam hutan."
+"Akhirnya dia ketemu orang yang tahu jawaban, dia bilang mira harus pergi ke rumah di dalam hutan.",
+"Saat dia pergi ke hutan, dia ketemu rumah itu."
 ]
 Journal_Page = 0
 left_Arrow = sprites.create(img`
