@@ -346,11 +346,18 @@ Journal_Images = [img`
     `]
 Journal_Text = [
 "Ditulis dan digambar jojo dan armand",
+"Chapter #1",
 "Pada suatu hari, hiduplah anak perepuan bernama Mira",
 "Dia tinggal bersama neneknya",
 "Neneknya sedang kena sakit aneh, kata dokter tidak ada obatnya. Dia tidak percaya dokternya, jadi dia tanya-tanya orang-orang di Desanya.",
 "Akhirnya dia ketemu orang yang tahu jawaban, dia bilang mira harus pergi ke rumah di dalam hutan.",
-"Saat dia pergi ke hutan, dia ketemu rumah itu."
+"Saat dia pergi ke hutan, dia ketemu rumah itu.",
+"Dia masuk ke rumah itu dan ketemu orang bernama Budi",
+"\"Halo nama saya Budi. Apakah kamu ingin obat panyakit aneh?\" kata budi",
+"\"Bagaimana kamu tahu?\" kata mira. \"Saya itu mambaca pikiranmu mira, apakah kamu tidak tahu bagaimana cara melakukanya?\" kata Budi",
+"\"tidak\" kata Mira",
+"\"Hmm... kalau gitu kamu tudak tahu sihir... Biarkanku ajarkan sihir paling gampang, tinggal cari tongkat sihir dulu...\"",
+"Untuk dilanjutkan..."
 ]
 Journal_Page = 0
 left_Arrow = sprites.create(img`
