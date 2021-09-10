@@ -345,19 +345,29 @@ Journal_Images = [img`
     666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666666
     `]
 Journal_Text = [
-"Ditulis dan digambar jojo dan armand",
-"Chapter #1",
-"Pada suatu hari, hiduplah anak perepuan bernama Mira",
+"Ditulis dan digambar Jojo dan Armand",
+"Bab #1",
+"Pada suatu hari, hiduplah anak perempuan bernama Mira",
 "Dia tinggal bersama neneknya",
-"Neneknya sedang kena sakit aneh, kata dokter tidak ada obatnya. Dia tidak percaya dokternya, jadi dia tanya-tanya orang-orang di Desanya.",
-"Akhirnya dia ketemu orang yang tahu jawaban, dia bilang mira harus pergi ke rumah di dalam hutan.",
-"Saat dia pergi ke hutan, dia ketemu rumah itu.",
-"Dia masuk ke rumah itu dan ketemu orang bernama Budi",
-"\"Halo nama saya Budi. Apakah kamu ingin obat panyakit aneh?\" kata budi",
-"\"Bagaimana kamu tahu?\" kata mira. \"Saya itu mambaca pikiranmu mira, apakah kamu tidak tahu bagaimana cara melakukanya?\" kata Budi",
-"\"tidak\" kata Mira",
-"\"Hmm... kalau gitu kamu tudak tahu sihir... Biarkanku ajarkan sihir paling gampang, tinggal cari tongkat sihir dulu...\"",
-"Untuk dilanjutkan..."
+"Neneknya sedang kena sakit aneh, kata dokter tidak ada obatnya. Mira tidak mempercayai ucapan dokternya, jadi dia bertanya kepada orang-orang di Desanya.",
+"Seseorang memberinya saran, dia bilang Mira harus pergi ke rumah di dalam hutan.",
+"lalu dia pergi ke hutan, dia menemukan rumah itu.",
+"Dia masuk ke rumah itu, disana dia melihat seseorang, orang itu menyapanya",
+"\"Halo nama saya Budi. Apakah kamu ingin obat penyakit aneh?\" kata Budi",
+"\"Bagaimana kamu tahu?\" tanya Mira. \"Saya bisa membaca pikiranmu. Apakah kamu tidak tahu bagaimana cara melakukanya?\" kata Budi",
+"\"Tidak\" jawab Mira",
+"\"Hmm... kau akan belajar, begitu juga sihir untuk menyembuhkan Nenekmu, namun kita perlu mencari tongkat sihir terlebih dahulu\"",
+"Bab #2",
+"\"Untuk membuat tongkat sihir kita membutuhkan kayu hidup...\" kata Budi \"Kayu hidup?\" tanya mira",
+"\"dia juga tidak tahu itu? Hmm... kamu tidak tahu apapun tenteng sihir...\" Mengerang budi",
+"Budi jadi menjelaskan apa itu kayu hidup, \"kayu hidup itu kayu yang bisa bergerak seperti ular\"",
+"Lalu mereka jalan ke dalam gudang besar di belakang rumah itu",
+"\"seharusnya kayu hidup ada di sini\" kata budi sambil mencarinya",
+"\"nah situ dia\"",
+"Budi mengambil kayu itu dan tiba-tiba kayu itu bergerak dan ubah bentuk menjadi tongkat kecil",
+"\"tapi hanya ini tidak cukup untuk membuat tongkat sihir\" kata Budi",
+"\"untuk membuat tongkat sihir kita membutuhkan beberapa permata...\"",
+"\"kalau mau lebih spesifik, permata biru, seperti topaz, aquamarine, dan safir.\""
 ]
 Journal_Page = 0
 left_Arrow = sprites.create(img`
